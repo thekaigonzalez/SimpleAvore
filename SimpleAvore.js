@@ -1,4 +1,4 @@
-const deepslate = require("DeepSlate/DeepSlate.js");
+const deepslate = require("DeepSlate").DeepSlate;
 
 // simple avore implementation using deepslate
 
