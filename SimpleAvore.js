@@ -64,5 +64,3 @@ function runAvoreCode(code) {
         obj(ast.funcarguments);
     }
 }
-
-runAvoreCode("av.os.system[\"one two three\"]")
